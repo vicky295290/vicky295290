@@ -9,7 +9,7 @@ I'm a data science student passionate about transforming data into actionable in
 - **Technical**: Python, SQL, Tableau, Power BI, MS Access, Excel, Visio, Alteryx, SAS, Snowflake, Linux, Git 
 - **Packages**: MongoDB, SQLite, PostgreSQL, PySpark, Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn
 
-#### Fun Facts
+#### 👻 Fun Facts
 - 🔭 I’m interested in areas such as ***Data Science***, ***Data Analysis***
 - 🔥 I’m a **Data Analyst Intern** at Houston Emergency Opioid Engagement System
 - 🔍 I’m a **Health Data Analyst Intern** at Center for Health Promotion and Prevention Research

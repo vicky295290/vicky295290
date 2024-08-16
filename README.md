@@ -14,9 +14,7 @@ I'm a data science student passionate about transforming data into actionable in
 - 🔥 I’m a **Data Analyst Intern** at Houston Emergency Opioid Engagement System
 - 🔍 I’m a **Health Data Analyst Intern** at Center for Health Promotion and Prevention Research
 - 🌱 I’m a MS student in Biomedical Informatics with concentration in Data Science at UT Health
-- 🎣 Fishing
-- 🎾 Tennis
-- ✈️ Traveling
+- 🎣 Fishing 🎾 Tennis ✈️ Traveling
 
 
 #### 🚀 Let's Collaborate!
